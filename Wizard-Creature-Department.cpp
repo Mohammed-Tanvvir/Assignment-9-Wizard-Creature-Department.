@@ -1,14 +1,3 @@
-/*==========================================================
-
- Title:     Assignment 9 - C++ Wizard Creature Department
- Course:  	CIS 2252
- Author:  	<Mohammed Tanvvir>
- Date:    	<8 /10 /23 >
- Description: This program ....
-
- ==========================================================
-*/
-
 #include <iostream>
 
 using namespace std;
